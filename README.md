@@ -1,9 +1,3 @@
 Ciphers and decyphers for:
 
-  Caesar
-  
-  Columnar Transposition
-  
-  Subtitution
-  
-  Vernam
+Caesar, Columnar Transposition, Subtitution, Vernam
